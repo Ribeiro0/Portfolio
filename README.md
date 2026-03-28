@@ -35,19 +35,5 @@ Aqui compartilho projetos práticos voltados para análise de dados, criação d
 
 ---
 
-## 📷 Preview
 
-![Preview do site](./preview.png)
 
----
-
-## ⚙️ Como rodar o projeto
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-# Acesse a pasta do projeto
-cd seu-repositorio
-
-# Abra o arquivo index.html no navegador
